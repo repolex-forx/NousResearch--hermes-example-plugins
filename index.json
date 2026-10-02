@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "hermes-example-plugins",
+  "versions": [
+    {
+      "commit": "38fe0fb53eff98d477f807432e965429e665ca33",
+      "tag": "main",
+      "parsed_at": "2026-10-02T10:58:20.168708+00:00"
+    }
+  ]
+}
